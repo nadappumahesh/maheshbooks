@@ -1,0 +1,30 @@
+Use our website to store and share Unlimited images for free:
+Create an account today: https://imgpile.com
+
+We use Amazon S3 for image storage +
+Amazon EC2 instance as backend server +
+CloudFront and CloudFlare as content distribution network (CDN).
+ = Your images will be stored forever! You'll never loose a single image.***
+
+- SSL encrption support
+- Unlimited free storage	 
+- Personal Private Albums and Privacy Settings	 
+- Fast HTML5 Uploader (No flash required)
+- Image Sharing with Embed codes and social media
+- Unlimited Album Creations
+- Multiple Image uploads
+- Clipboard Uploads
+- Automatically Expirable Images (Can be set by registered users)
+- NSFW Flags
+- Multiple Language (We support 26 languages and more to come)
+- No Exif data strip down on upload
+-------------------------------------------------------------------
+For everything viral, funny and inspiring:
+https://nanufeed.com
+--------------------------------------------------------------------
+Our Mobile/Gadget blog:
+https://digitfreak.com
+--------------------------------------------------------------------
+Follow us:
+https://on.fb.me/digitfreak
+https://twitter.com/digit_freak
